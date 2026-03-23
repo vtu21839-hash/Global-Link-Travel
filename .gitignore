@@ -1,0 +1,26 @@
+# Flutter/Dart (this repo contains a Flutter project in ./global_link_travel)
+global_link_travel/.dart_tool/
+global_link_travel/build/
+
+# Flutter generated plugin dependency file (local to each machine)
+global_link_travel/.flutter-plugins-dependencies
+
+# iOS/Android native build artifacts (safe to ignore)
+global_link_travel/ios/Pods/
+global_link_travel/ios/.symlinks/
+global_link_travel/ios/Flutter/ephemeral/
+global_link_travel/android/.gradle/
+global_link_travel/android/build/
+
+# Local Android SDK settings (contains machine-specific paths)
+global_link_travel/android/local.properties
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+

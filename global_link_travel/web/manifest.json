@@ -1,0 +1,11 @@
+{
+  "name": "Global Link Travel",
+  "short_name": "GLTravel",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1B4D8E",
+  "theme_color": "#1B4D8E",
+  "description": "Explore the World with Global Link Travel",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
